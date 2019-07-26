@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Learn to use pretrained model on Keras
 
-You can use the [editor on GitHub](https://github.com/yasohasakii/keras-pretrained-nn-template/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yasohasakii/keras-pretrained-nn-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hi！In this repository I'd like to share some Keras knowledge to all of you.  
+I used to get TensorFlow as my first deep learning platform, however, TensorFlow has many senior APIs which are difficult for newbees to learn, and from version 1.12 to 1.9, so many APIs have been changed, which annoied me a lot. But Keras, I only know for couple monthes, makes me feel easy on all tasks. So embrace Keras right now.  
+Btw, any problem you can send to [me](jumtsai@foxmail.com) if I'm avilable.
